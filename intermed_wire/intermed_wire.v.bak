@@ -1,0 +1,14 @@
+module intermed_wire
+				(
+					// Inputs
+					in_1,
+					in_2,
+					in_3,
+					// Outputs
+					out_1,
+					out_2,
+				);
+	// Port definitions
+	input	in_1;
+	input	in_2;
+	input	in_
