@@ -1,0 +1,11 @@
+module dflop_en_clr (
+	input [1:0] KEY,
+	input [9:0] SW,
+	output reg [9:0] LEDR
+	output reg [9:0] LEDR
+);
+	
+	always @ ( posedge !KEY[0] or posedge !KEY[1] )
+	begin
+		if ( !reset )
+			LEDR
