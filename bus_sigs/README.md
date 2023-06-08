@@ -1,5 +1,5 @@
 # Verilog_by_examples
-Source codes of examples from the book [Verilog by Examples](https://www.amazon.com.br/Verilog-Example-Concise-Introduction-Design/dp/0983497303)
+Source codes of examples and testbench files from the book [Verilog by Examples](https://www.amazon.com.br/Verilog-Example-Concise-Introduction-Design/dp/0983497303)
 
 
 <p align="center">
