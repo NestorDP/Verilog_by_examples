@@ -20,7 +20,7 @@ module simple_in_n_out
 	// ------------- Design implementation --------
 	
 	assign out_1 = in_1 & in_2 & in_3;
-	assign out_2 = in_1 | in_2 & in_3;
+	assign out_2 = in_1 | in_2 | in_3;
 	
  
  endmodule

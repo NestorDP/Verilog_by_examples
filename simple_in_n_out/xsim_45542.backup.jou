@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# xsim v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Mar 11 22:55:38 2024
+# Process ID: 45542
+# Current directory: /home/nestor/repositories/Verilog_by_examples/simple_in_n_out
+# Command line: xsim -source {xsim.dir/simple_in_n_out_tb_snapshot.wdb/xsim_script.tcl}
+# Log file: /home/nestor/repositories/Verilog_by_examples/simple_in_n_out/xsim.log
+# Journal file: /home/nestor/repositories/Verilog_by_examples/simple_in_n_out/xsim.jou
+# Running On: nestor, OS: Linux, CPU Frequency: 1800.138 MHz, CPU Physical cores: 4, Host memory: 8220 MB
+#-----------------------------------------------------------
+start_gui
+source xsim.dir/simple_in_n_out_tb_snapshot.wdb/xsim_script.tcl
+create_wave_config; add_wave /; set_property needs_save false [current_wave_config]
+close_sim
