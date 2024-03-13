@@ -1,1 +1,0 @@
--debug "all" -top "simple_in_n_out_tb" -snapshot "simple_in_n_out_tb_snapshot" 

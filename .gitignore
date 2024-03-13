@@ -17,7 +17,7 @@
 !*.vhd
 !*.v
 !*.sv
-!*.bd
+#!*.bd
 !*.edif
 #IP files
 #.xci: synthesis and implemented not possible - you need to return back to the previous version to generate output products
@@ -56,7 +56,7 @@
 #TCL - files
 !*.tcl
 #Journal - files
-!*.jou
+#!*.jou
 #Reports
 !*.rpt
 !*.txt
